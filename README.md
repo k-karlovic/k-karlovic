@@ -1,6 +1,6 @@
 ### Hi there, I'm Kristian 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?color=383434&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/kristian-karlovic-6a04a016a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?color=383434&logo=linkedin&style=for-the-badge)](https://linkedin.com/in/kristiankarlovic) 
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?color=383434&logo=twitter&style=for-the-badge)](https://twitter.com/kkarlovic1?lang=en) 
 [![Email](https://img.shields.io/badge/Email-0077B5?color=383434&logo=email&style=for-the-badge)](mailto:kristiankarlovic@outlook.com)
 
@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/kristian-karlovic-6a04a016a
+[linkedin]: https://www.linkedin.com/in/kristiankarlovic
 [twitter]: https://twitter.com/kkarlovic1?lang=en
 [email]: mailto:kristiankarlovic@outlook.com
 
