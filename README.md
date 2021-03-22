@@ -17,7 +17,7 @@
   - OpenCV
   - Scikit-learn
   - Matplotlib
-  - Beatifulsoap
+  - BeautifulSoup
 - SQL
 - MySQL
 - Tableau
