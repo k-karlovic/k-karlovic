@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-0077B5?color=383434&logo=email&style=for-the-badge)](mailto:kristiankarlovic@outlook.com)
 
 - ⚙️ Machine Engineer
-- ❤️ Passionate about Data Science, Big Data, and Machine Learning!
+- ❤️ Passionate about Data Science, Big Data, Machine Learning, and Computer Vision!
 - 🌱 Currently learning about certain things for Data Science
 - 👯 Looking to collaborate with other Data Scientists to help each other
 - 🤔 Looking for help to be a better Data Scientist
