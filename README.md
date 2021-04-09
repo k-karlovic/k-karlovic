@@ -8,7 +8,6 @@
 - ❤️ Passionate about Data Science, Big Data, Machine Learning, and Computer Vision!
 - 🌱 Currently learning about certain things for Data Science
 - 👯 Looking to collaborate with other Data Scientists to help each other
-- 🤔 Looking for help to be a better Data Scientist
 
 ## Skills and Tools:
 - Python
